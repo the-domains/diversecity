@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[diversecity]]></title>
-        <description><![CDATA[diversecity]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[DiverseCity Community Partnership]]></title>
+        <description><![CDATA[DiverseCity Community Partnership]]></description>
+        <link>https://thegrid.ai/diversecity/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 20:42:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Apr 2016 20:55:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/diversecity/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7877879c-2ca5-4f1d-a216-c88472b78fd9.jpg">]]></description>
+            <link>https://thegrid.ai/diversecity/6a27dce1-1ba9-4042-aff8-21e16ebc4e17/index.html</link>
+            <guid isPermaLink="false">6a27dce1-1ba9-4042-aff8-21e16ebc4e17</guid>
+            <pubDate>Thu, 21 Apr 2016 20:55:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[DiverseCity Community Partnership]]></title>
             <description><![CDATA[<article><h1>DiverseCity Community Partnership</h1><p>A collection of community organisations in Derry/Londonderry working together to transform our city centre into a truly DiverseCity. Through our partnership we have created a new purpose built shared space at the heart of the city. </p></article>]]></description>
-            <link>undefineddiversecity-community-partnership/index.html</link>
+            <link>https://thegrid.ai/diversecity/diversecity-community-partnership/index.html</link>
             <guid isPermaLink="false">139e712d-d381-43d1-8fa8-fde77dd54c16</guid>
             <pubDate>Thu, 21 Apr 2016 20:42:03 GMT</pubDate>
         </item>
