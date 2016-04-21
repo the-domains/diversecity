@@ -4,8 +4,15 @@
         <description><![CDATA[DiverseCity Community Partnership]]></description>
         <link>https://thegrid.ai/diversecity/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 20:55:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 21:03:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/diversecity/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Us]]></title>
+            <description><![CDATA[<p>We're ...</p>]]></description>
+            <link>https://thegrid.ai/diversecity/about-us/index.html</link>
+            <guid isPermaLink="false">a63b8d24-28b1-44f8-8ce6-dab07dd1ed62</guid>
+            <pubDate>Thu, 21 Apr 2016 21:03:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7877879c-2ca5-4f1d-a216-c88472b78fd9.jpg">]]></description>
